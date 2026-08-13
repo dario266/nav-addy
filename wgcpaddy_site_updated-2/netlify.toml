@@ -1,0 +1,6 @@
+# Netlify configuration for WGCPADDY
+# Tells Netlify where to find serverless functions and how to publish the site.
+
+[build]
+  publish = "."
+  functions = "netlify/functions"

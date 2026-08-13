@@ -1,0 +1,9 @@
+{
+  "name": "wgcpaddy-site",
+  "version": "1.0.0",
+  "description": "WGCPADDY website with combined Stripe checkout",
+  "private": true,
+  "dependencies": {
+    "stripe": "^17.0.0"
+  }
+}
